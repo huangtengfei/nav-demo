@@ -46,6 +46,8 @@ body {
 	width: 1190px;
 	margin: 0 auto;
 	margin-top: 20px;
+	overflow: hidden;
+	*zoom: 1;
 }
 
 /* main left */
